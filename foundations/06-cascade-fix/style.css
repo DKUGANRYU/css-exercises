@@ -33,3 +33,14 @@ div.text {
   color: green;
   font-size: 28px;
 }
+.para.small-para {
+  font-size: 12px;
+}
+#confirm-button {
+  background: green;
+  color: white;
+}
+.text > .text.child {
+  color: red;
+  font-size: 14px;
+}
